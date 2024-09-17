@@ -8,19 +8,244 @@
 6,7. The Lord of the Rings: The Return of the King
 7,8. Pulp Fiction
 8,9. The Lord of the Rings: The Fellowship of the Ring
-9,"10. Il buono, il brutto, il cattivo"
+9,"10. The Good, the Bad and the Ugly"
 10,11. Forrest Gump
 11,12. The Lord of the Rings: The Two Towers
 12,13. Fight Club
 13,14. Inception
 14,15. Star Wars: Episode V - The Empire Strikes Back
 15,16. The Matrix
-16,17. Goodfellas
+16,17. GoodFellas
 17,18. One Flew Over the Cuckoo's Nest
 18,19. Interstellar
-19,20. Se7en
+19,20. Seven
 20,21. It's a Wonderful Life
-21,22. Shichinin no samurai
+21,22. Seven Samurai
 22,23. The Silence of the Lambs
 23,24. Saving Private Ryan
-24,25. Cidade de Deus
+24,25. City of God
+25,26. Life Is Beautiful
+26,27. The Green Mile
+27,28. Terminator 2: Judgment Day
+28,29. Star Wars: Episode IV - A New Hope
+29,30. Back to the Future
+30,31. Spirited Away
+31,32. The Pianist
+32,33. Parasite
+33,34. Psycho
+34,35. Gladiator
+35,36. The Lion King
+36,37. Spider-Man: Across the Spider-Verse
+37,38. The Departed
+38,39. Whiplash
+39,40. American History X
+40,41. Leon
+41,42. Grave of the Fireflies
+42,43. The Prestige
+43,44. Harakiri
+44,45. Dune: Part Two
+45,46. The Usual Suspects
+46,47. Casablanca
+47,48. Untouchable
+48,49. Cinema Paradiso
+49,50. Modern Times
+50,51. Alien
+51,52. Rear Window
+52,53. Once Upon a Time in the West
+53,54. City Lights
+54,55. Django Unchained
+55,56. Apocalypse Now
+56,57. Memento
+57,58. WALL·E
+58,59. Raiders of the Lost Ark
+59,60. 12th Fail
+60,61. The Lives of Others
+61,62. Sunset Blvd.
+62,63. Avengers: Infinity War
+63,64. Paths of Glory
+64,65. Spider-Man: Into the Spider-Verse
+65,66. Witness for the Prosecution
+66,67. The Shining
+67,68. The Great Dictator
+68,69. Aliens
+69,70. Inglourious Basterds
+70,71. The Dark Knight Rises
+71,72. Coco
+72,73. Amadeus
+73,74. Toy Story
+74,75. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+75,76. Oldboy
+76,77. American Beauty
+77,78. Avengers: Endgame
+78,79. Das Boot
+79,80. Braveheart
+80,81. Good Will Hunting
+81,82. Princess Mononoke
+82,83. Joker
+83,84. Your Name.
+84,85. High and Low
+85,86. 3 Idiots
+86,87. Once Upon a Time in America
+87,88. Singin' in the Rain
+88,89. Capernaum
+89,90. Come and See
+90,91. Requiem for a Dream
+91,92. Toy Story 3
+92,93. Star Wars: Episode VI - Return of the Jedi
+93,94. Eternal Sunshine of the Spotless Mind
+94,95. The Hunt
+95,96. 2001: A Space Odyssey
+96,97. Ikiru
+97,98. Reservoir Dogs
+98,99. Lawrence of Arabia
+99,100. The Apartment
+100,101. Incendies
+101,102. North by Northwest
+102,103. Oppenheimer
+103,104. Scarface
+104,105. Citizen Kane
+105,106. Double Indemnity
+106,107. M
+107,108. Vertigo
+108,109. Full Metal Jacket
+109,110. Heat
+110,111. Amélie
+111,112. Up
+112,113. A Clockwork Orange
+113,114. To Kill a Mockingbird
+114,115. A Separation
+115,116. The Sting
+116,117. Die Hard
+117,118. Indiana Jones and the Last Crusade
+118,119. Like Stars on Earth
+119,120. Metropolis
+120,121. Snatch
+121,122. 1917
+122,123. L.A. Confidential
+123,124. Bicycle Thieves
+124,125. Hamilton
+125,126. Taxi Driver
+126,127. Downfall
+127,128. Dangal
+128,129. Batman Begins
+129,130. For a Few Dollars More
+130,131. The Wolf of Wall Street
+131,132. Green Book
+132,133. Some Like It Hot
+133,134. The Kid
+134,135. The Truman Show
+135,136. Judgment at Nuremberg
+136,137. The Father
+137,138. All About Eve
+138,139. Shutter Island
+139,140. There Will Be Blood
+140,141. Jurassic Park
+141,142. Top Gun: Maverick
+142,143. Casino
+143,144. Ran
+144,145. The Sixth Sense
+145,146. Pan's Labyrinth
+146,147. Unforgiven
+147,148. No Country for Old Men
+148,149. The Thing
+149,150. A Beautiful Mind
+150,151. Kill Bill: Vol. 1
+151,152. The Treasure of the Sierra Madre
+152,153. Yojimbo
+153,154. The Great Escape
+154,155. Monty Python and the Holy Grail
+155,156. Finding Nemo
+156,157. Prisoners
+157,158. Howl's Moving Castle
+158,159. Rashomon
+159,160. The Elephant Man
+160,161. Dial M for Murder
+161,162. Chinatown
+162,163. Gone with the Wind
+163,"164. Lock, Stock and Two Smoking Barrels"
+164,165. The Secret in Their Eyes
+165,166. V for Vendetta
+166,167. Inside Out
+167,"168. Three Billboards Outside Ebbing, Missouri"
+168,169. Raging Bull
+169,170. Trainspotting
+170,171. The Bridge on the River Kwai
+171,172. Klaus
+172,173. Catch Me If You Can
+173,174. Fargo
+174,175. Warrior
+175,176. Spider-Man: No Way Home
+176,177. Gran Torino
+177,178. Harry Potter and the Deathly Hallows: Part 2
+178,179. Million Dollar Baby
+179,180. My Neighbour Totoro
+180,181. Mad Max: Fury Road
+181,182. Children of Heaven
+182,183. Ben-Hur
+183,184. 12 Years a Slave
+184,185. Barry Lyndon
+185,186. Before Sunrise
+186,187. Blade Runner
+187,188. The Grand Budapest Hotel
+188,189. Hacksaw Ridge
+189,190. Gone Girl
+190,191. Dead Poets Society
+191,192. Maharaja
+192,193. Memories of Murder
+193,194. In the Name of the Father
+194,195. The Gold Rush
+195,"196. Monsters, Inc."
+196,197. Wild Tales
+197,198. The Deer Hunter
+198,199. The General
+199,200. Sherlock Jr.
+200,201. Jaws
+201,202. Ratatouille
+202,203. How to Train Your Dragon
+203,204. On the Waterfront
+204,205. Mary and Max
+205,206. The Wages of Fear
+206,207. Wild Strawberries
+207,208. The Third Man
+208,209. Le Mans '66
+209,210. Mr. Smith Goes to Washington
+210,211. Tokyo Story
+211,212. Logan
+212,213. Rocky
+213,214. The Big Lebowski
+214,215. The Seventh Seal
+215,216. Room
+216,217. Spotlight
+217,218. The Terminator
+218,219. Hotel Rwanda
+219,220. Platoon
+220,221. La haine
+221,222. Pirates of the Caribbean: The Curse of the Black Pearl
+222,223. Before Sunset
+223,224. The Passion of Joan of Arc
+224,225. Jai Bhim
+225,226. The Best Years of Our Lives
+226,227. The Exorcist
+227,228. Rush
+228,229. The Incredibles
+229,230. The Wizard of Oz
+230,231. Network
+231,232. Stand by Me
+232,233. Hachi: A Dog's Tale
+233,234. The Sound of Music
+234,235. My Father and My Son
+235,236. The Handmaiden
+236,237. To Be or Not to Be
+237,238. Into the Wild
+238,239. The Battle of Algiers
+239,240. The Grapes of Wrath
+240,241. Groundhog Day
+241,242. The Iron Giant
+242,243. Amores perros
+243,244. Rebecca
+244,245. The Help
+245,246. Cool Hand Luke
+246,247. It Happened One Night
+247,"248. Paris, Texas"
+248,249. Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
+249,250. Drishyam
