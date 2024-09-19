@@ -1,8 +1,8 @@
-﻿|Name|Genre|Description|Duration
+|Name|Genre|Description|Duration
 0|The Shawshank Redemption|Drama|A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.|PT2H22M
 1|The Godfather|Crime, Drama|The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.|PT2H55M
 2|The Dark Knight|Action, Crime, Drama|When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.|PT2H32M
-3|The Godfather Part II|Crime, Drama|The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.|PT3H22M
+3||Crime, Drama|The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.|PT3H22M
 4|12 Angry Men|Crime, Drama|The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.|PT1H36M
 5|Schindler&apos;s List|Biography, Drama, History|In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.|PT3H15M
 6|The Lord of the Rings: The Return of the King|Action, Adventure, Drama|Gandalf and Aragorn lead the World of Men against Sauron&apos;s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.|PT3H21M
@@ -62,7 +62,7 @@
 60|Das Leben der Anderen|Drama, Mystery, Thriller|In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives.|PT2H17M
 61|Sunset Blvd.|Drama, Film-Noir|A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.|PT1H50M
 62|Avengers: Infinity War|Action, Adventure, Sci-Fi|The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.|PT2H29M
-63|Paths of Glory|Drama, War|After a failed attack on a German position, a general orders three soldiers, chosen at random, court-martialed for cowardice and their commanding officer must defend them.|PT1H28M
+63|Paths of Glory|Drama, War|A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.|PT1H28M
 64|Spider-Man: Into the Spider-Verse|Animation, Action, Adventure|Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.|PT1H57M
 65|Witness for the Prosecution|Crime, Drama, Mystery|A veteran British barrister must defend his client in a murder trial that has surprise after surprise.|PT1H56M
 66|The Shining|Drama, Horror|A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future.|PT2H26M
@@ -101,10 +101,10 @@
 99|The Apartment|Comedy, Drama, Romance|A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but office politics and his own romantic hopes complicate matters.|PT2H5M
 100|Incendies|Drama, Mystery, War|Twins journey to the Middle East to discover their family history and fulfill their mother&apos;s last wishes.|PT2H11M
 101|North by Northwest|Action, Adventure, Mystery|A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.|PT2H16M
-102|Oppenheimer|Biography, Drama, History|The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.|PT3H
-103|Scarface|Crime, Drama|Miami in the 1980s: a determined criminal minded Cuban immigrant, becomes the biggest drug smuggler in Florida, and is eventually undone by his own drug addiction.|PT2H50M
-104|Citizen Kane|Drama, Mystery|Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: &apos;Rosebud.&apos;|PT1H59M
-105|Double Indemnity|Crime, Drama, Film-Noir|A Los Angeles insurance representative is seduced by an alluring housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.|PT1H47M
+102|Scarface|Crime, Drama|Miami in the 1980s: a determined criminal minded Cuban immigrant, becomes the biggest drug smuggler in Florida, and is eventually undone by his own drug addiction.|PT2H50M
+103|Oppenheimer|Biography, Drama, History|The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.|PT3H
+104|Double Indemnity|Crime, Drama, Film-Noir|A Los Angeles insurance representative is seduced by an alluring housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.|PT1H47M
+105|Citizen Kane|Drama, Mystery|Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: &apos;Rosebud.&apos;|PT1H59M
 106|M - Eine Stadt sucht einen Mörder|Crime, Mystery, Thriller|When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.|PT1H57M
 107|Vertigo|Mystery, Romance, Thriller|A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.|PT2H8M
 108|Full Metal Jacket|Drama, War|A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.|PT1H56M
@@ -124,8 +124,8 @@
 122|L.A. Confidential|Crime, Drama, Mystery|As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.|PT2H18M
 123|Ladri di biciclette|Drama|In post-war Italy, a working-class man&apos;s bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.|PT1H29M
 124|Hamilton|Biography, Drama, History|The real life of one of America&apos;s foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.|PT2H40M
-125|Taxi Driver|Crime, Drama|A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.|PT1H54M
-126|Der Untergang|Biography, Drama, History|Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator&apos;s final days in his Berlin bunker at the end of WWII.|PT2H36M
+125|Der Untergang|Biography, Drama, History|Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator&apos;s final days in his Berlin bunker at the end of WWII.|PT2H36M
+126|Taxi Driver|Crime, Drama|A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.|PT1H54M
 127|Dangal|Action, Biography, Drama|Mahavir Singh Phogat, a former wrestler, decides to fulfill his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas.|PT2H41M
 128|Batman Begins|Action, Crime, Drama|After witnessing his parents&apos; death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.|PT2H20M
 129|Per qualche dollaro in più|Drama, Western|Two bounty killers with similar intentions but different motivations team up to track down a psychotic Mexican outlaw before he and his gang can carry out an audacious bank robbery.|PT2H12M
@@ -181,7 +181,7 @@
 179|Tonari no Totoro|Animation, Comedy, Family|When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.|PT1H26M
 180|Mad Max: Fury Road|Action, Adventure, Sci-Fi|In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.|PT2H
 181|Bacheha-Ye aseman|Drama, Family, Sport|After a boy loses his sister&apos;s pair of shoes, he goes on a series of adventures in order to find them. When he can&apos;t, he tries a new way to &quot;win&quot; a new pair.|PT1H29M
-182|Ben-Hur|Adventure, Drama|After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.|PT3H32M
+182|Ben-Hur|Adventure, Drama|A Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, but it&apos;s not long before he regains his freedom and comes back for revenge.|PT3H32M
 183|12 Years a Slave|Biography, Drama, History|In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.|PT2H14M
 184|Barry Lyndon|Adventure, Drama, War|An Irish rogue wins the heart of a rich widow and assumes her dead husband&apos;s aristocratic position in 18th-century England.|PT3H5M
 185|Before Sunrise|Drama, Romance|A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.|PT1H41M
@@ -199,7 +199,7 @@
 197|The Deer Hunter|Drama, War|An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.|PT3H3M
 198|The General|Action, Adventure, Comedy|After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through ene...|PT1H18M
 199|Sherlock Jr.|Action, Comedy, Romance|A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend&apos;s father&apos;s pocketwatch.|PT45M
-200|Jaws|Adventure, Drama, Thriller|When a killer shark unleashes chaos on a beach community off Cape Cod, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.|PT2H4M
+200|Jaws|Adventure, Drama, Thriller|When a massive killer shark unleashes chaos on a beach community off Long Island, it&apos;s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.|PT2H4M
 201|Ratatouille|Animation, Adventure, Comedy|A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.|PT1H51M
 202|How to Train Your Dragon|Animation, Action, Adventure|A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.|PT1H38M
 203|On the Waterfront|Crime, Drama, Thriller|An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate&apos;s victims.|PT1H48M
@@ -209,8 +209,8 @@
 207|The Third Man|Film-Noir, Mystery, Thriller|Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.|PT1H44M
 208|Ford v Ferrari|Action, Biography, Drama|American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.|PT2H32M
 209|Mr. Smith Goes to Washington|Comedy, Drama|A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his c...|PT2H9M
-210|Tôkyô monogatari|Drama|An old couple visit their children and grandchildren in the city, but receive little attention.|PT2H16M
-211|Logan|Action, Drama, Sci-Fi|In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.|PT2H17M
+210|Logan|Action, Drama, Sci-Fi|In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.|PT2H17M
+211|Tôkyô monogatari|Drama|An old couple visit their children and grandchildren in the city, but receive little attention.|PT2H16M
 212|Rocky|Drama, Sport|A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.|PT2H
 213|The Big Lebowski|Comedy, Crime|Jeff &quot;The Dude&quot; Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.|PT1H57M
 214|Det sjunde inseglet|Drama, Fantasy|A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.|PT1H36M
@@ -247,5 +247,7 @@
 245|Cool Hand Luke|Crime, Drama|A laid-back Southern man is sentenced to two years in a rural prison, but refuses to conform.|PT2H7M
 246|It Happened One Night|Comedy, Romance|A rogue reporter trailing a runaway heiress for a big story joins her on a bus heading from Florida to New York and they end up stuck with each other when the bus leaves them behind at one of the stops along the way.|PT1H45M
 247|Paris, Texas|Drama|Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.|PT2H25M
-248|Gekijôban Kimetsu no yaiba: Mugen Ressha hen|Animation, Action, Adventure|After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado&apos;s journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.|PT1H57M
-249|Drishyam|Crime, Drama, Mystery|Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.|PT2H43M
+248|Aladdin|Animation, Adventure, Comedy|A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.|PT1H30M
+249|Scent of a Woman|Drama|A prep school student needing money agrees to &quot;babysit&quot; a blind man, but the job is not at all what he anticipated.|PT2H36M
+250|dummy||dummy description|123
+251|Viral video|Youtube Shorts|This is a youtube viral video|PT1M
