@@ -19,7 +19,7 @@ Create a movie recommendation system that suggests films based on user preferenc
 - **Task:** Convert categorical data (like genres) into numerical features.
 - **Steps:**
   - Apply one-hot encoding for categorical variables.
-  - Create a user-item interaction matrix or a content-based feature matrix.
+  - Create a content-based feature matrix.
 - **Deliverable:** A matrix ready for similarity calculations.
 
 ### 4. Recommendation Algorithm
